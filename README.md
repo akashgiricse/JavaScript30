@@ -14,7 +14,7 @@ See the working project on CodePen **[here](https://codepen.io/akashgiricse/pen/
 Learned how to create css variable and modify them with JS<br>
 See the working project on CodePen **[here](https://codepen.io/akashgiricse/pen/EoBpeQ)** -->
 
-| Day         | What I made/learned         | Lilnk |
+| Day         | What I made/learned         | Link |
 |:------------|:----------------------------|:-----:|
 | Day01 <br> (23/01/2018) | Drum Kit | [JS Drum Kit](https://rawgit.com/akashgiricse/JavaScript30/master/Day01-JavaScript_Drum_Kit/index.html) |
 | Day02 <br> (24/01/2018) | Clock using CSS and JS | [CodePen](https://codepen.io/akashgiricse/pen/eyaVwg) |
